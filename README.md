@@ -1,6 +1,6 @@
 # Fareshare
-PEAN Stack 
-Postgresql
+MEAN Stack 
+MongoDB
 Express.js
 Angular.js
 Node.js
